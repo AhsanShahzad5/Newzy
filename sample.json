@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Uliana Pavlova, Alex Stambaugh, Jackie Wattles",
+            "title": "Russia's first lunar mission in decades crashes into the moon - CNN",
+            "description": "Russia’s first moon mission in decades ended in failure as the Luna 25 spacecraft crashed into the lunar surface.",
+            "url": "https://www.cnn.com/2023/08/20/world/luna-25-spacecraft-moon-collision-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820055114-russia-luna-25-launch-082023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T17:45:00Z",
+            "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nRussias first lunar mission in decades h… [+4650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Alix Breeden",
+            "title": "Tish Cyrus marries ‘Prison Break’ star Dominic Purcell with daughter Miley as her Maid of Honor - Page Six",
+            "description": "Tish’s superstar daughter Miley played the role of Maid of Honor for her big day while son Trace and daughter Brandi were also a part of the wedding party.",
+            "url": "https://pagesix.com/2023/08/20/tish-cyrus-marries-prison-break-star-dominic-purcell-with-daughter-miley-as-her-maid-of-honor/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/08/1jpg-3.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-20T17:36:00Z",
+            "content": "Tish Cyrus and Dominic Purcell are hitched!\r\nMiley Cyrus mother tied the knot to the Prison Break star in Malibu, Calif., Saturday in an intimate wedding ceremony, Page Six has learned.\r\nAerial shots… [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Ecuadorians vote for new president in election marred by candidate’s murder - The Guardian",
+            "description": "Security is high since the murder of Fernando Villavicencio as candidates hope to overturn high crime rates and a struggling economy",
+            "url": "https://www.theguardian.com/world/2023/aug/20/ecuadoreans-vote-for-new-president-in-election-marred-by-candidates",
+            "urlToImage": "https://i.guim.co.uk/img/media/eec419b58a55e8134d0eb4f0b4d77896925aeda4/0_10_4149_2489/master/4149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e779e52ce656fdf58f5c6b994985cd68",
+            "publishedAt": "2023-08-20T17:32:00Z",
+            "content": "Ecuadorians are voting to choose a new president they hope will lead the country out of a wave of violence and economic troubles, after a campaign darkened by bloodshed.\r\nCandidates have pledged to f… [+3196 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeff Carlisle",
+            "title": "With Messi, Inter Miami claimed the Leagues Cup. Now what? - ESPN - ESPN",
+            "description": "Inter Miami have been flawless since Lionel Messi arrived, prompting the obvious question: How long can they keep this form going, and can they now go on to make the MLS playoffs from being in last place? Only time will tell.",
+            "url": "https://www.espn.com/soccer/story/_/id/38226342/lionel-messi-inter-miami-win-leagues-cup-mls-resumes",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0820%2Fr1213176_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-20T16:53:00Z",
+            "content": "NASHVILLE, Tenn. -- Major League Soccer didn't have to wait long for its cherished Lionel Messi moment.\r\nOn Saturday night in front of a packed crowd at Geodis Park, Inter Miami won the Leagues Cup, … [+14261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Mitchell Peters",
+            "title": "Jack Antonoff & Margaret Qualley Marry in Star-Studded Ceremony Attended by Taylor Swift, Lana Del Rey & More - Billboard",
+            "description": "The music producer and actress got engaged in May 2022.",
+            "url": "https://www.billboard.com/music/music-news/jack-antonoff-margaret-qualley-marry-taylor-swift-lana-del-rey-1235396218/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2022/04/jack-antonoff-grammys-show-2022-billboard-1548.jpg?w=1024",
+            "publishedAt": "2023-08-20T16:43:40Z",
+            "content": "Congratulations are in order for Jack Antonoff and Margaret Qualley, who married over the weekend in New Jersey.\r\nThe music producer and Bleachers frontman, 39, exchanged vows with the Maid actress, … [+1339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WISN Milwaukee"
+            },
+            "author": "The Associated Press",
+            "title": "Packers, Patriots preseason game called off after injury to Isaiah Bolden - WISN Milwaukee",
+            "description": "The Patriots say Bolden had feeling in all his extremities, but has been taken to a local hospital for further tests.",
+            "url": "https://www.wisn.com/article/packers-and-patriots-preseason-game-called-off-after-injury-to-isaiah-bolden/44858673",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap264e18b5733ac5.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+            "publishedAt": "2023-08-20T16:39:00Z",
+            "content": "GREEN BAY, Wis. —New Englands preseason game with the Green Bay Packers was called off on Saturday night after Patriots rookie cornerback Isaiah Bolden was carted off the field early in the fourth qu… [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Flesh-eating bacteria kills eight in US, prompting warnings of swimming in sea and eating shellfish - The Telegraph",
+            "description": "Health officials are advising people with open wounds to stay away from sea water to avoid the risk of being infected",
+            "url": "https://www.telegraph.co.uk/world-news/2023/08/20/flesh-eating-bacteria-deaths-us-florida-new-york/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2023/08/20/TELEMMGLPICT000346312504_16925480796540_trans_NvBQzQNjv4BqQJoTHvv9hWAiaCwwE8274nXG7IzBfovB4IDXyGABeC8.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2023-08-20T16:33:00Z",
+            "content": "The five deaths in Florida occurred in the southeastern states Tampa Bay area.\r\nIn all, there have been 26 reported cases of vibrio vulnificus infections in the state since January. Last year, Florid… [+1406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Spain coach Jorge Vilda booed at Women's World Cup final, iced out in celebrations amid controversy - CBS Sports",
+            "description": "The coach has been under fire for a lack of professionalism by players",
+            "url": "https://www.cbssports.com/soccer/news/spain-coach-jorge-vilda-booed-at-womens-world-cup-final-iced-out-in-celebrations-amid-controversy/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/20/6fd1a3f8-cbce-49eb-b3d4-f508d45c84bd/thumbnail/1200x675/e40a7440338057d2f3642e2e94891e04/spain-3.jpg",
+            "publishedAt": "2023-08-20T16:32:00Z",
+            "content": "Even amidst the celebrations at Stadium Australia following Spain's first-ever Women's World Cup victory, signs of the ongoing protest against the Royal Spanish Football Federation and head coach Jor… [+3079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Man disparages Pride flag, then kills shopkeeper in California - BBC",
+            "description": "The gunman is shot dead by US police, as Hollywood director Paul Feig pays tribute to the victim.",
+            "url": "https://www.bbc.com/news/world-us-canada-66564605",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0087/production/_130853100_gettyimages-1392171790.jpg",
+            "publishedAt": "2023-08-20T16:19:57Z",
+            "content": "A US shop owner was shot dead after a dispute over a Pride flag displayed outside her business, police say. \r\nLaura Ann Carleton, 66, was found with a bullet wound at her Mag Pi shop in Cedar Glen, C… [+2074 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Mike Pence thinks Trump might still make it to the first debate - POLITICO",
+            "description": "“One thing I realized about him, it's not over till it's over,” the former vice president said.",
+            "url": "https://www.politico.com/news/2023/08/20/pence-trump-gop-debate-00112002",
+            "urlToImage": "https://static.politico.com/98/04/6e888b0d4b4685666c11a30ca563/https-delivery-gettyimages.com/downloads/1607802611",
+            "publishedAt": "2023-08-20T16:18:14Z",
+            "content": "The potential interview with Carlson, who left his prime-time slot on Fox abruptly amid rumors of tension between the host and Fox leadership, would be a slap in the face to the network once lauded b… [+518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Collider.com"
+            },
+            "author": "Rahul Malhotra",
+            "title": "'Blue Beetle' Domestic Box Office Debut Nabs Top Spot - Collider",
+            "description": "DC superhero movie, Blue Beetle, has knocked Greta Gerwig's Barbie from the top spot at the domestic box office.",
+            "url": "https://collider.com/blue-beetle-domestic-box-office-26-million/",
+            "urlToImage": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/08/blue-beetle-angel-manuel-soto-dc-universe.jpg",
+            "publishedAt": "2023-08-20T16:01:00Z",
+            "content": "The Big Picture\r\n<ul><li>Blue Beetle debuted at number one, toppling Barbie from the top spot at the domestic box office after a month. </li><li>Blue Beetle's box office debut puts itbehind both Bird… [+3419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "How a family's choice to donate a body for pig kidney research could help change transplants - KSL.com",
+            "description": "Thousands of people die awaiting a transplant because of a dire shortage of donated organs. NYU's experiment offers important lessons as U.S. regulators consider whether to allow formal studies of pig kidneys in living patients.",
+            "url": "https://www.ksl.com/article/50713041/how-a-familys-choice-to-donate-a-body-for-pig-kidney-research-could-help-change-transplants",
+            "urlToImage": "https://img.ksl.com/slc/2943/294374/29437472.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-08-20T15:24:12Z",
+            "content": "Estimated read time: 6-7\r\n minutes\r\nNEW YORK Mary Miller-Duffy was dazed and grieving. Her brother suddenly collapsed and days later was brain-dead. Now she faced a tough question: Would she donate h… [+7658 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren Mascarenhas, Artemis Moshtaghian",
+            "title": "Block Island hotel fire: Flames ravage Rhode Island's Harborside Inn - CNN",
+            "description": "A large fire erupted in a historic hotel in the smallest town of the nation’s smallest state Friday night, leaving the area with limited water and no power and prompting a state of emergency on Rhode Island’s Block Island.",
+            "url": "https://www.cnn.com/2023/08/20/us/rhode-block-island-hotel-fire/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820090019-02-rhode-island-hotel-fire-081923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T15:18:00Z",
+            "content": "A large fire erupted in a historic hotel in the smallest town of the nations smallest state Friday night, leaving the area with limited water and no power and prompting a state of emergency on Rhode … [+3628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Antoaneta Roussi",
+            "title": "Zelenskyy hails F-16 commitment on visit to Netherlands - POLITICO Europe",
+            "description": "The Netherlands, Denmark confirm plans to transfer fighter jets, but numbers and timing are to be determined.",
+            "url": "https://www.politico.eu/article/volodymyr-zelenskyy-mark-rutte-netherlands-ukraine-hails-f-16-commitment-on-visit-to-netherlands/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/20/GettyImages-1610722352-scaled.jpg",
+            "publishedAt": "2023-08-20T15:00:00Z",
+            "content": "The Netherlands confirmed that it will provide Ukraine with F-16 fighter jets following approval from the U.S. allowing Ukrainian pilots to get training to fly the planes and eventually to provide th… [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Worldathletics.org"
+            },
+            "author": null,
+            "title": "Five things to look out for on day three at WCH Budapest 23 | News | Budapest 23 - World Athletics",
+            "description": "Day two brings six gold medals",
+            "url": "https://worldathletics.org/competitions/world-athletics-championships/budapest23/news/preview/day-three-preview-budapest-23",
+            "urlToImage": "https://assets.aws.worldathletics.org/large/64e226b49e68cf0922151d3b.jpg",
+            "publishedAt": "2023-08-20T14:57:01Z",
+            "content": "After two days of morning and evening sessions at the World Athletics Championships Budapest 23, day three is the day to catch your breath as there are no morning session on days three and four.\r\nCap… [+4398 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Paul Berger",
+            "title": "Bankrupt Yellow Draws New $1.5 Billion Bid for Truck Terminals - The Wall Street Journal",
+            "description": "Old Dominion Freight Line’s proposal outbids rival Estes Express, stepping up the competition for a network of 169 terminals",
+            "url": "https://www.wsj.com/articles/bankrupt-yellow-draws-new-1-5-billion-bid-for-truck-terminals-3ac3aeae",
+            "urlToImage": "https://images.wsj.net/im-838859/social",
+            "publishedAt": "2023-08-20T14:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Trump should exit race, Louisiana Sen. Bill Cassidy says - POLITICO - POLITICO",
+            "description": "\"I'm just very sorry about how all of this is playing out,\" he said.",
+            "url": "https://www.politico.com/news/2023/08/20/donald-trump-bill-cassidy-2024-race-00111993",
+            "urlToImage": "https://static.politico.com/5a/31/1c481d4b4428acdf5628740c941a/u-s-senate-57039.jpg",
+            "publishedAt": "2023-08-20T14:32:41Z",
+            "content": "I think Joe Biden needs to be replaced, but I dont think Americans would vote for someone whos been convicted, so Im just very sorry about how all of this is playing out, the Louisiana senator said. … [+647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FantasyPros"
+            },
+            "author": null,
+            "title": "10 Must-Have Fantasy Football Draft Picks (2023) - FantasyPros",
+            "description": "It all comes down to this. All of the offseason fantasy football draft prep. All of the mock drafts. All of the time you’ve spent preparing for your 2023 fantasy football drafts will come down to the next few weeks. …  read more »",
+            "url": "https://www.fantasypros.com/2023/08/10-must-have-fantasy-football-draft-picks-2023/?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_7530670",
+            "urlToImage": "https://cdn.fantasypros.com/wp-content/images/Drake_London_Falcons_1470x650_3/1470x650.jpg",
+            "publishedAt": "2023-08-20T14:25:38Z",
+            "content": "It all comes down to this. All of the offseason fantasy football draft prep. All of the mock drafts. All of the time you’ve spent preparing for your 2023 fantasy football drafts will come down to the… [+9586 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Megan Thomas, Chris Boyette, Eric Levenson",
+            "title": "Ron Cephas Jones, Emmy-winning actor in 'This Is Us,' dies at age 66 - CNN",
+            "description": "Ron Cephas Jones, who won two Emmy Awards for his acting on the hit television drama “This Is Us,” has died at age 66, according to his manager, Dan Spilo.",
+            "url": "https://www.cnn.com/2023/08/20/entertainment/ron-cephas-jones-death/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820082420-01-ron-cephas-jones.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-20T13:55:00Z",
+            "content": "Ron Cephas Jones, who won two Emmy Awards for his acting on the hit television drama This Is Us, has died at age 66, according to his manager, Dan Spilo.\r\nJones was best known for playing William Hil… [+2576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Physicists Identify a Strange New Form of Superconductivity - ScienceAlert",
+            "description": "Superconductivity promises to transform everything from power grids to personal electronics.",
+            "url": "https://www.sciencealert.com/physicists-identify-a-strange-new-form-of-superconductivity",
+            "urlToImage": "https://www.sciencealert.com/images/2023/08/CoolSuperconductor.jpg",
+            "publishedAt": "2023-08-20T12:31:15Z",
+            "content": "Superconductivity promises to transform everything from power grids to personal electronics. Yet getting the low-waste form of power to operate at ambient temperatures and pressures is proving to be … [+2952 chars]"
+        }
+    ]
+}
